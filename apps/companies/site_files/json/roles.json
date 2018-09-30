@@ -1,0 +1,12 @@
+[{
+    "name": "Companies",
+    "ar": "ادارة الشركات",
+    "en": "Companies Management",
+    "permissions": [
+        "companies",
+        "companies_employees",
+        "companies_categories",
+        "companies_devices",
+        "damages"
+    ]
+}]

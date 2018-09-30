@@ -1,0 +1,11 @@
+[{
+    "name": "employees",
+    "ar": "ادارة الوظائف و الموظفين",
+    "en": "Jobs & Employees Management",
+    "permissions": [
+        "employees",
+        "departments",
+        "jobs",
+        "employees_degrees"
+    ]
+}]

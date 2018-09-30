@@ -1,0 +1,7 @@
+[
+    {"name" : "employees" , "ar" : "ادارة الموظفين" , "en" : "Employees Management"} ,
+    {"name" : "departments" , "ar" : "ادارة أقسام الموظفين  " , "en" : "Employees Departments Management"} ,
+    {"name" : "jobs" , "ar" : "ادارة الوظائف" , "en" : "Jobs Management"},
+    {"name" : "employees_degrees" , "ar" : "ادارة الدرجات الوظيفية" , "en" : "Employees Degrees Management"}
+
+]

@@ -1,0 +1,30 @@
+<div id="SearchModal" class="modal">
+
+    <div class="modal-content">
+        <div class="modal-header">
+            <span class="close">&times;</span>
+            <h2>
+                ##word.companies_employees_search## <i class="fa fa-search"></i>
+                <i ng-show="busy" class="fa fa-spinner white fa-pulse fa-3x fa-fw"></i>
+            </h2>
+        </div>
+        <div class="modal-body">
+            <div class="row">
+                <i-list ng-search="company_search" class="col3" items="companies" ng-model="search.company" label="##word.companies_categories_company##"></i-list>
+                <i-list ng-search="job_search" class="col3" items="jobs" ng-model="search.job" label="##word.jobs##"></i-list>
+
+                <i-control ng-model="search.name" type="text" class="col4" label="##word.companies_employees_name##"></i-control>
+
+            </div>
+
+        </div>
+        <h2 class="error">{{error}}</h2>
+        <div class="modal-footer center">
+            <i-button type="search" ng-hide="busy" ng-click="searchAll()" label="##word.search##"></i-button>
+            <i-button type="clear" ng-click="search = {}" label="##word.clear##"></i-button>
+            <i-button type="close" onclick="site.hideModal('#SearchModal')" label="##word.close##"></i-button>
+
+
+        </div>
+    </div>
+</div>

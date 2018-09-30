@@ -1,0 +1,8 @@
+[
+    {"name" : "companies" , "ar" : "ادارة الشركات" , "en" : "Goves Management"} ,
+    {"name" : "companies_employees" , "ar" : "ادارة موظفين الشركات" , "en" : "Companies Employees Management"} ,
+    {"name" : "companies_categories" , "ar" : "ادارة فئات الشركات" , "en" : "Companies Categories Management"} ,
+    {"name" : "companies_devices" , "ar" : "ادارة أجهزة الشركات" , "en" : "Companies Devices Management"} ,
+    {"name" : "damages" , "ar" : "ادارة الأعطال" , "en" : "Damages Management"} 
+    
+]

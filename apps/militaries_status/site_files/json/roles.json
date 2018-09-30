@@ -1,0 +1,9 @@
+[{
+    "name": "general_settings",
+    "ar": "ادارة الاعدادات العامة",
+    "en": "General Settings Management",
+    "permissions": [
+        "militaries_status",
+        "maritals_status"
+    ]
+}]

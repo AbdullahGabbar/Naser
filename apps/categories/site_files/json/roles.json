@@ -1,0 +1,10 @@
+[{
+    "name": "categories",
+    "ar": "ادارة الفئات",
+    "en": "Categories Management",
+    "permissions": [
+        "categories",
+        "sub_categories",
+        "devices_names"
+    ]
+}]

@@ -1,0 +1,6 @@
+[{
+    "name": "address",
+    "ar": "ادارة العناوين",
+    "en": "Address",
+    "permissions": ["goves", "towns", "cities", "regions"]
+}]

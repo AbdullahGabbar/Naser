@@ -1,0 +1,6 @@
+[
+    {"name" : "categories" , "ar" : "ادارة الفئات" , "en" : "Categories Management"} ,
+    {"name" : "sub_categories" , "ar" : "ادارة الفئات الفرعية " , "en" : "Sub Categories Management"} ,
+    {"name" : "devices_names" , "ar" : "ادارة فئات الشركات" , "en" : "Devices Names Management"}
+
+]
